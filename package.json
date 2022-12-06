@@ -1,0 +1,23 @@
+{
+  "name": "mongocli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcowen6/MongoCLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcowen6/MongoCLI/issues"
+  },
+  "homepage": "https://github.com/mcowen6/MongoCLI#readme",
+  "dependencies": {
+    "yargs": "^17.6.2"
+  }
+}
